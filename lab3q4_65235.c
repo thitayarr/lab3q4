@@ -14,6 +14,6 @@ int main() {
 		sum += a;
 	}
 	printf("sum = %d\n",sum);
-	printf("avg = %d\n",(sum/count));
+	printf("avg = %f\n",(sum/count));
 }
 
